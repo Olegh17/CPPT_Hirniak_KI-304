@@ -1,0 +1,77 @@
+2023-10-12T14:59:49.493857100 - Spaceship 'Milyarder-1' with speed 5000 has been sent to space.
+2023-10-12T14:59:49.572026500 - Added 5 passengers to spaceship 'SuperNavigator'.
+2023-10-12T14:59:49.583809600 - Spaceship 'SuperNavigator' has landed.
+2023-10-12T14:59:49.587818700 - Removed 2 passengers from spaceship 'SuperNavigator'.
+2023-10-12T14:59:49.601954100 - Spaceship 'Milyarder-1' has started maneuver: Orbit Adjustment
+2023-10-12T14:59:49.602950800 - Spaceship's name has been changed to 'UltraStarship'
+2023-10-12T14:59:49.605021800 - Spaceship 'Milyarder-1' has completed maneuver: Orbit Adjustment
+2023-10-12T15:01:30.336680600 - Spaceship 'Milyarder-1' with speed 5000 has been sent to space.
+2023-10-12T15:01:30.363955900 - Added 5 passengers to spaceship 'SuperNavigator'.
+2023-10-12T15:01:30.369935100 - Spaceship 'SuperNavigator' has landed.
+2023-10-12T15:01:30.371222 - Removed 2 passengers from spaceship 'SuperNavigator'.
+2023-10-12T15:01:30.384910700 - Spaceship 'Milyarder-1' has started maneuver: Orbit Adjustment
+2023-10-12T15:01:30.385878500 - Spaceship's name has been changed to 'UltraStarship'
+2023-10-12T15:01:30.386875100 - Spaceship 'Milyarder-1' has completed maneuver: Orbit Adjustment
+2023-10-12T15:02:10.069802200 - Spaceship 'Milyarder-1' with speed 5000 has been sent to space.
+2023-10-12T15:02:10.096670700 - Added 5 passengers to spaceship 'SuperNavigator'.
+2023-10-12T15:02:10.102836800 - Spaceship 'SuperNavigator' has landed.
+2023-10-12T15:02:10.103913300 - Removed 2 passengers from spaceship 'SuperNavigator'.
+2023-10-12T15:02:10.117020300 - Spaceship 'Milyarder-1' has started maneuver: Orbit Adjustment
+2023-10-12T15:02:10.118522300 - Spaceship's name has been changed to 'UltraStarship'
+2023-10-12T15:02:10.118992500 - Spaceship 'Milyarder-1' has completed maneuver: Orbit Adjustment
+2023-10-12T15:02:15.621399800 - Spaceship 'Milyarder-1' with speed 5000 has been sent to space.
+2023-10-12T15:02:15.647509800 - Added 5 passengers to spaceship 'SuperNavigator'.
+2023-10-12T15:02:15.657664100 - Spaceship 'SuperNavigator' has landed.
+2023-10-12T15:02:15.658966500 - Removed 2 passengers from spaceship 'SuperNavigator'.
+2023-10-12T15:02:15.774124800 - Spaceship 'Milyarder-1' has started maneuver: Orbit Adjustment
+2023-10-12T15:02:15.775164800 - Spaceship's name has been changed to 'UltraStarship'
+2023-10-12T15:02:15.777184900 - Spaceship 'Milyarder-1' has completed maneuver: Orbit Adjustment
+2023-10-12T16:20:43.941862600 - Spaceship 'Milyarder-1' with speed 5000 has been sent to space.
+2023-10-12T16:20:43.964047500 - Added 5 passengers to spaceship 'SuperNavigator'.
+2023-10-12T16:20:43.969336800 - Spaceship 'SuperNavigator' has landed.
+2023-10-12T16:20:43.970711600 - Removed 2 passengers from spaceship 'SuperNavigator'.
+2023-10-12T16:20:43.984051300 - Spaceship 'Milyarder-1' has started maneuver: Orbit Adjustment
+2023-10-12T16:20:43.985038900 - Spaceship's name has been changed to 'UltraStarship'
+2023-10-12T16:20:43.986036800 - Spaceship 'Milyarder-1' has completed maneuver: Orbit Adjustment
+2023-10-12T16:24:50.187389600 - Spaceship 'Milyarder-1' with speed 5000 has been sent to space.
+2023-10-12T16:24:50.210367500 - Added 5 passengers to spaceship 'SuperNavigator'.
+2023-10-12T16:24:50.219505400 - Spaceship 'SuperNavigator' has landed.
+2023-10-12T16:24:50.221477800 - Removed 2 passengers from spaceship 'SuperNavigator'.
+2023-10-12T16:24:50.237421700 - Spaceship 'Milyarder-1' has started maneuver: Orbit Adjustment
+2023-10-12T16:24:50.238419200 - Spaceship's name has been changed to 'UltraStarship'
+2023-10-12T16:24:50.240634100 - Spaceship 'Milyarder-1' has completed maneuver: Orbit Adjustment
+2023-10-12T16:25:53.781947100 - Spaceship 'Milyarder-1' with speed 5000 has been sent to space.
+2023-10-12T16:25:53.807431700 - Added 5 passengers to spaceship 'SuperNavigator'.
+2023-10-12T16:25:53.816246500 - Spaceship 'SuperNavigator' has landed.
+2023-10-12T16:25:53.818242 - Removed 2 passengers from spaceship 'SuperNavigator'.
+2023-10-12T16:25:53.831260700 - Spaceship 'Milyarder-1' has started maneuver: Orbit Adjustment
+2023-10-12T16:25:53.832204600 - Spaceship's name has been changed to 'UltraStarship'
+2023-10-12T16:25:53.833201200 - Spaceship 'Milyarder-1' has completed maneuver: Orbit Adjustment
+2023-11-24T13:46:19.703825100 - Spaceship 'Milyarder-1' with speed 5000 has been sent to space.
+2023-11-24T13:46:19.722774 - Added 5 passengers to spaceship 'SuperNavigator'.
+2023-11-24T13:46:19.727760800 - Spaceship 'SuperNavigator' has landed.
+2023-11-24T13:46:19.728758600 - Removed 2 passengers from spaceship 'SuperNavigator'.
+2023-11-24T13:46:19.737734200 - Spaceship 'Milyarder-1' has started maneuver: Orbit Adjustment
+2023-11-24T13:46:19.738731500 - Spaceship's name has been changed to 'UltraStarship'
+2023-11-24T13:46:19.739728600 - Spaceship 'Milyarder-1' has completed maneuver: Orbit Adjustment
+2023-11-30T15:36:21.327163700 - Spaceship 'Milyarder-1' with speed 5000 has been sent to space.
+2023-11-30T15:36:21.346112900 - Added 5 passengers to spaceship 'SuperNavigator'.
+2023-11-30T15:36:21.350102100 - Spaceship 'SuperNavigator' has landed.
+2023-11-30T15:36:21.351099400 - Removed 2 passengers from spaceship 'SuperNavigator'.
+2023-11-30T15:36:21.360076400 - Spaceship 'Milyarder-1' has started maneuver: Orbit Adjustment
+2023-11-30T15:36:21.361073200 - Spaceship's name has been changed to 'UltraStarship'
+2023-11-30T15:36:21.362071600 - Spaceship 'Milyarder-1' has completed maneuver: Orbit Adjustment
+2023-11-30T17:19:19.865234200 - Spaceship 'Milyarder-1' with speed 5000 has been sent to space.
+2023-11-30T17:19:19.885179800 - Added 5 passengers to spaceship 'SuperNavigator'.
+2023-11-30T17:19:19.892161300 - Spaceship 'SuperNavigator' has landed.
+2023-11-30T17:19:19.893158900 - Removed 2 passengers from spaceship 'SuperNavigator'.
+2023-11-30T17:19:19.905638200 - Spaceship 'Milyarder-1' has started maneuver: Orbit Adjustment
+2023-11-30T17:19:19.906637100 - Spaceship's name has been changed to 'UltraStarship'
+2023-11-30T17:19:19.907632500 - Spaceship 'Milyarder-1' has completed maneuver: Orbit Adjustment
+2023-12-01T17:05:09.064683600 - Spaceship 'Milyarder-1' with speed 5000 has been sent to space.
+2023-12-01T17:05:09.089616400 - Added 5 passengers to spaceship 'SuperNavigator'.
+2023-12-01T17:05:09.095600100 - Spaceship 'SuperNavigator' has landed.
+2023-12-01T17:05:09.096598300 - Removed 2 passengers from spaceship 'SuperNavigator'.
+2023-12-01T17:05:09.108566800 - Spaceship 'Milyarder-1' has started maneuver: Orbit Adjustment
+2023-12-01T17:05:09.110560300 - Spaceship's name has been changed to 'UltraStarship'
+2023-12-01T17:05:09.111561 - Spaceship 'Milyarder-1' has completed maneuver: Orbit Adjustment
